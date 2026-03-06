@@ -25,7 +25,7 @@ Based in Malaysia 🇲🇾
 ## Contact
 
 - **Email**: [shelton.xiaoteng.ma@gmail.com](mailto:shelton.xiaoteng.ma@gmail.com)
-- **LinkedIn**: [@shelton.ma](https://www.linkedin.com/in/xiaoteng-566040129)
+- **LinkedIn**: [@shelton.ma](https://www.linkedin.com/in/sheltonma-566040129/?locale=en_US)
 
 ## My Collaborated Projects
 
