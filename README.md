@@ -29,10 +29,3 @@ Based in Malaysia 🇲🇾
 
 ## My Collaborated Projects
 
-<a href="https://github.com/raytonx-labs/raytonx-learn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raytonx-labs&repo=raytonx-learn" />
-</a>
-
-<a href="https://github.com/timlrx/tailwind-nextjs-starter-blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=timlrx&repo=tailwind-nextjs-starter-blog" />
-</a>
