@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Xiaoteng 👋
 
-<!--
-**shelton-xiaoteng-ma/shelton-xiaoteng-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TypeScript full-stack developer building AI products.
 
-Here are some ideas to get you started:
+Currently working at **@raytonx-labs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- TypeScript
+- Node.js
+- Next.js / React 
+- Nest.js / Express
+- PostgreSQL / Prisma / Supabase
+
+## 🧠 Current Focus
+
+- AI SaaS
+- scalable Node.js backend
+- developer tools
+
+## 🌏 Location
+
+Based in Malaysia 🇲🇾
+
+## 📫 Contact
+
+- **Email**: [shelton.xiaoteng.ma@gmail.com](mailto:shelton.xiaoteng.ma@gmail.com)
+- **LinkedIn**: [@shelton.ma](https://www.linkedin.com/in/xiaoteng-566040129)
